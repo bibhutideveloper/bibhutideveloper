@@ -56,49 +56,49 @@ A fast-learning committed Full Stack Web Developer with excellent UI Design Skil
 <div>
 
 ###### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
 
 
 ###### Web Technologies
 <!-- ###### FrontEnd<br> -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS%203-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 ![LavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
 <!-- ###### BackEnd -->
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp;
 
 <!-- ###### CMS -->
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
 
 
 
 
 ###### Frameworks, Platforms & Libraries<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Angular13](https://img.shields.io/badge/Angular%2013-%23DD0031.svg?flat&logo=angular&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)&nbsp;
 
 
 
 ###### Servers<br>
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)&nbsp;
 
 
 
 ###### Databases 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;
 
 
 
 ###### Designing Tools<br>
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=310000)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=310000)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 
 
@@ -116,7 +116,7 @@ A fast-learning committed Full Stack Web Developer with excellent UI Design Skil
 ###### Operating Systems<br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![MAC](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=)&nbsp;
+![MAC](https://img.shields.io/badge/mac%20OS-000000?style=flat&logo=apple&logoColor=)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 
 
