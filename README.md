@@ -1,4 +1,4 @@
-### Hi Developers, 'I'm ```Bibhuti Kumbhakar``` 👋
+### Hi Developers, I'm ```Bibhuti Kumbhakar``` 👋
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;MERN+Developer;Graphics+Designer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=false&width=380&height=45">
 
 
