@@ -40,9 +40,9 @@ A fast-learning committed Full Stack Web Developer with excellent UI Design Skil
 ## <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="35"> &nbsp;Github Stats
 
 <div style="display:flex;flex-wrap:wrap;gap:20px">
-<!--     <img width="380" src="https://github-readme-stats.vercel.app/api?username=bibhutideveloper&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=algolia" /> -->
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=bibhutideveloper&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=algolia" />
     <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=bibhutideveloper&theme=algolia" />
-<!--     <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibhutideveloper&show_icons=true&locale=en&layout=compact&line_height=25&theme=algolia" /> -->
+    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibhutideveloper&show_icons=true&locale=en&layout=compact&line_height=25&theme=algolia" />
 </div>
 
 
