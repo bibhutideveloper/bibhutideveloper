@@ -57,7 +57,6 @@ A fast-learning committed Full Stack Web Developer with excellent UI Design Skil
 
 ###### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/Java-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
 
 
