@@ -5,7 +5,7 @@
 <!-- social links --><br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bibhuti-kumbhakar-899412247/)](https://www.linkedin.com/in/bibhuti-kumbhakar-899412247/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/bibhutikumbhakar)](https://www.hackerrank.com/bibhutikumbhakar)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/bibhuti.kumbhakar.7)](https://www.facebook.com/bibhuti.kumbhakar.7)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/kumbhakarbibhuti)](https://www.facebook.com/bibhuti.kumbhakar.7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kumbhakarbibhuti/)](https://www.instagram.com/kumbhakarbibhuti/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bibhutikumbhakar@gmail.com/)
 
