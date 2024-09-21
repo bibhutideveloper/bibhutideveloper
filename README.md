@@ -1,7 +1,6 @@
 ## Hi Developers, I'm ```Bibhuti Kumbhakar``` 👋
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;MERN+Developer;Graphics+Designer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=false&width=380&height=45">
 
-
 <!-- social links --><br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bibhuti-kumbhakar-899412247/)](https://www.linkedin.com/in/bibhuti-kumbhakar-899412247/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/bibhutikumbhakar)](https://www.hackerrank.com/bibhutikumbhakar)
